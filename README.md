@@ -1,7 +1,7 @@
 # Cex-Dex
 ## Principales Diferencias
 1. [Que es un cex](#Que es un cex)
-2. [Technologies](#technologies)
+2. [Que es un Dex](#Que es un Dex)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
