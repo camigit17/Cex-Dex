@@ -2,7 +2,7 @@
 ## Principales Diferencias
 1. [Que es un Cex?](#Que-es-un-cex?)
 2. [Que es un Dex?](#Que-es-un-Dex?)
-3. [Diferencias](#Diferencias)
+3. [Diferencias.](#Diferencias.)
 4. [ventajas](#ventajas)
 5. [FAQs](#faqs)
 ### General Info
