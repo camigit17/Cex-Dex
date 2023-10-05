@@ -1,5 +1,5 @@
 # Cex-Dex?...
-## Principales Diferencias.
+## Principales Diferencias...
 1. [Que es un Cex?](#Que-es-un-cex?)
 2. [Que es un Dex?](#Que-es-un-Dex?)
 3. [Diferencias...](#Diferencias...)
